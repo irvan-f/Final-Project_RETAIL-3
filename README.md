@@ -13,7 +13,7 @@ Tujuan utama dari proyek ini yaitu:
 2. Membuat model regresi linear dengan akurasi maksimal untuk memprediksi profit.
 
 ## Sumber Data
-Dataset yang digunakan **Sample-Superstore.csv** yang diambil dari [Retail/Customer Reviews](https://drive.google.com/drive/folders/11Ru_XWA4mVpjZPnuucGRGJDc4dZbyJlc?usp=sharing). Dataset ini berisi data penjualan superstore dari tahun 2014 hingga 2017 di United States (U.S).
+Dataset yang digunakan **Sample-Superstore.csv** yang diambil dari [Retail/Customer Reviews](https://drive.google.com/drive/folders/11Ru_XWA4mVpjZPnuucGRGJDc4dZbyJlc?usp=sharing). Dataset ini berisi data transaksi penjualan superstore dari tahun 2014 hingga 2017 di United States (U.S).
 
 ## Dokumen
 - Sample – Superstore.csv
