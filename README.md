@@ -2,7 +2,7 @@
 oleh: 
 <br> Tim RETAIL 3
 <br> 1. Irvan Febyanto - 152236035100-730
-<br> 2. Muhammad Aryo Panji - 152236035100-619
+
 
 ## Latar Belakang
 *Superstore* merupakan sebuah bisnis retail di Amerika Serikat yang menjual produk teknologi, furnitur dan peralatan kantor. Segmen pelanggan mereka terdiri dari golongan konsumen, *corporate* dan *home offices*. Seiring berjalannya waktu, permintaan semakin meningkat dan persaingan di pasar semakin ketat sehingga *superstore* perlu mencari pengetahuan dalam memahami apa yang terbaik untuk mendorong pertumbuhan bisnis mereka.
