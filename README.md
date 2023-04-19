@@ -18,4 +18,5 @@ Dataset yang digunakan **Sample-Superstore.csv** yang diambil dari [Retail/Custo
 ## Dokumen
 - Sample – Superstore.csv
 - Final Project_Superstore.ipynb : notebook yang digunakan untuk EDA (Exploration Data Analysis) dan pembuatan model *machine learning*.
+- Final Project_Model.ipynb : notebook yang digunakan untuk pembuatan model *machine learning*.
 - Presentation_Retail 3.pptx
